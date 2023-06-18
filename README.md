@@ -6,7 +6,7 @@ The bank wants to convert its liability customers into retail loan customers whi
 To achieve this goal, the department would like to develop a classifier that can help them identify potential customers who are more likely to purchase the loan. This will increase the success rate while reducing the cost of the campaign.
 
 # Dataset
-The dataset used for this project is the Bank_Loan_modelling whitch can download from (this link)[https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling], which contains information about customers who have applied for loans. The dataset has the following features:
+The dataset used for this project is the Bank_Loan_modelling whitch can download from [this link](https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling), which contains information about customers who have applied for loans. The dataset has the following features:
 
 ID: Customer ID
 Age: Customer's age
